@@ -1,0 +1,15 @@
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.csproj.AssemblyReference.cache
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.AssemblyInfoInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.AssemblyInfo.cs
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.csproj.CoreCompileInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\bin\Debug\net7.0\Tehtävä 1 - Ovi.exe
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\bin\Debug\net7.0\Tehtävä 1 - Ovi.deps.json
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\bin\Debug\net7.0\Tehtävä 1 - Ovi.runtimeconfig.json
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\bin\Debug\net7.0\Tehtävä 1 - Ovi.dll
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\bin\Debug\net7.0\Tehtävä 1 - Ovi.pdb
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.dll
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\refint\Tehtävä 1 - Ovi.dll
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.pdb
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\Tehtävä 1 - Ovi.genruntimeconfig.cache
+C:\Olio-ohjelmointi\Tehtävä 1 - Ovi\Tehtävä 1 - Ovi\obj\Debug\net7.0\ref\Tehtävä 1 - Ovi.dll
