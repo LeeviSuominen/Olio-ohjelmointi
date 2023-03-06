@@ -1,0 +1,15 @@
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.csproj.AssemblyReference.cache
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.AssemblyInfoInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.AssemblyInfo.cs
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.csproj.CoreCompileInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\bin\Debug\net7.0\Food Serving Generator.exe
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\bin\Debug\net7.0\Food Serving Generator.deps.json
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\bin\Debug\net7.0\Food Serving Generator.runtimeconfig.json
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\bin\Debug\net7.0\Food Serving Generator.dll
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\bin\Debug\net7.0\Food Serving Generator.pdb
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.dll
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\refint\Food Serving Generator.dll
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.pdb
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\Food Serving Generator.genruntimeconfig.cache
+C:\Olio-ohjelmointi\Tehtävä 2\Food Serving Generator\Food Serving Generator\obj\Debug\net7.0\ref\Food Serving Generator.dll
