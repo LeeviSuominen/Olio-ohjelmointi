@@ -1,0 +1,15 @@
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\bin\Debug\net7.0\Arrow Shop.exe
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\bin\Debug\net7.0\Arrow Shop.deps.json
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\bin\Debug\net7.0\Arrow Shop.runtimeconfig.json
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\bin\Debug\net7.0\Arrow Shop.dll
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\bin\Debug\net7.0\Arrow Shop.pdb
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.csproj.AssemblyReference.cache
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.AssemblyInfoInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.AssemblyInfo.cs
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.csproj.CoreCompileInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.dll
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\refint\Arrow Shop.dll
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.pdb
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\Arrow Shop.genruntimeconfig.cache
+C:\Olio-ohjelmointi\Tehtävä 3\Arrow Shop\Arrow Shop\obj\Debug\net7.0\ref\Arrow Shop.dll
