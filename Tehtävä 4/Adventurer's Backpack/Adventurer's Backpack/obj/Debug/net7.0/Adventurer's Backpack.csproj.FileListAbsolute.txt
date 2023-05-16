@@ -1,0 +1,15 @@
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.csproj.AssemblyReference.cache
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.AssemblyInfoInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.AssemblyInfo.cs
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.csproj.CoreCompileInputs.cache
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\bin\Debug\net7.0\Adventurer's Backpack.exe
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\bin\Debug\net7.0\Adventurer's Backpack.deps.json
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\bin\Debug\net7.0\Adventurer's Backpack.runtimeconfig.json
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\bin\Debug\net7.0\Adventurer's Backpack.dll
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\bin\Debug\net7.0\Adventurer's Backpack.pdb
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.dll
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\refint\Adventurer's Backpack.dll
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.pdb
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\Adventurer's Backpack.genruntimeconfig.cache
+C:\Olio-ohjelmointi\Tehtävä 4\Adventurer's Backpack\Adventurer's Backpack\obj\Debug\net7.0\ref\Adventurer's Backpack.dll
