@@ -1,2 +1,2 @@
 # Olio-ohjelmointi
-Simple C# OOP projects
+Simple C# OOP projects for school.
